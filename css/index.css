@@ -554,11 +554,12 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 .page5 > img:nth-child(3) {
-    top: -2rem;
+    top: -2.2rem;
     left: -1.2rem;
     width: 2.4rem;
     height: 2.4rem;
     z-index: 200;
+    opacity: 1;
 }
 
 .page5 > img:nth-child(4) {
@@ -580,8 +581,8 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 #page5 > img:nth-child(3) {
-    -webkit-animation: bgmovebottom 2s .6s both;
-    animation: bgmovebottom 2s .6s both;
+    /*-webkit-animation: bgmovebottom 2s .6s both;
+    animation: bgmovebottom 2s .6s both;*/
 }
 
 #page5 > img:nth-child(4) {
@@ -1229,7 +1230,7 @@ html, body, .swiper-container, .swiper-slide {
 
 @-webkit-keyframes bgmovebottom {
     from {
-        top: -2rem;
+        top: -2.2rem;
         left: -1.2rem;
         opacity: 1;
     }
