@@ -554,7 +554,7 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 .page5 > img:nth-child(3) {
-    top: -2.2rem;
+    top: -2.3rem;
     left: -1.2rem;
     width: 2.4rem;
     height: 2.4rem;
@@ -581,8 +581,8 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 #page5 > img:nth-child(3) {
-    /*-webkit-animation: bgmovebottom 2s .6s both;
-    animation: bgmovebottom 2s .6s both;*/
+    -webkit-animation: bgmovebottom 2s .6s both;
+    animation: bgmovebottom 2s .6s both;
 }
 
 #page5 > img:nth-child(4) {
@@ -1230,7 +1230,7 @@ html, body, .swiper-container, .swiper-slide {
 
 @-webkit-keyframes bgmovebottom {
     from {
-        top: -2.2rem;
+        top: -2.3rem;
         left: -1.2rem;
         opacity: 1;
     }
@@ -1243,7 +1243,7 @@ html, body, .swiper-container, .swiper-slide {
 
 @keyframes bgmovebottom {
     from {
-        top: -2.2rem;
+        top: -2.3rem;
         left: -1.2rem;
         opacity: 1;
     }
