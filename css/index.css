@@ -222,18 +222,18 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 #page2 > img:nth-child(2) {
-    -webkit-animation: bounceInRight 1s .3s both;
-    animation: bounceInRight 1s .3s both;
+    -webkit-animation: zoomIn 1s .3s both;
+    animation: zoomIn 1s .3s both;
 }
 
 #page2 > img:nth-child(3) {
-    -webkit-animation: bounceInRight 1s .5s both;
-    animation: bounceInRight 1s .5s both;
+    -webkit-animation: zoomIn 1s .5s both;
+    animation: zoomIn 1s .5s both;
 }
 
 #page2 > img:nth-child(4) {
-    -webkit-animation: bounceInRight 1s .6s both;
-    animation: bounceInRight 1s .6s both;
+    -webkit-animation: bounceInRight 1s .3s both;
+    animation: bounceInRight 1s .3s both;
 }
 
 #page2 > img:nth-child(5) {
@@ -247,8 +247,8 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 #page2 > img:nth-child(7) {
-    -webkit-animation: bounceInRight 1s .8s both;
-    animation: bounceInRight 1s .8s both;
+    -webkit-animation: bounceInRight 1s .6s both;
+    animation: bounceInRight 1s .6s both;
 }
 
 #page2 > img:nth-child(8) {
@@ -262,8 +262,8 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 #page2 > img:nth-child(10) {
-    -webkit-animation: bounceInRight 1s 1s both;
-    animation: bounceInRight 1s 1s both;
+    -webkit-animation: bounceInRight 1s .9s both;
+    animation: bounceInRight 1s .9s both;
 }
 
 #page2 > .line1 {
