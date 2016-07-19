@@ -183,9 +183,9 @@ html, body, .swiper-container, .swiper-slide {
 
 .page2 > img:nth-child(10) {
     top: 6.92rem;
-    left: .85rem;
-    width: 1rem;
-    height: 1rem;
+    left: .9rem;
+    width: .9rem;
+    height: .9rem;
 }
 
 .page2 .line1 {
@@ -214,6 +214,24 @@ html, body, .swiper-container, .swiper-slide {
     left: 40%;
     width: 2.78rem;
     height: 3.46rem;
+}
+.page2 > img:nth-child(15) {
+    top: 75%;
+    left: 2.5rem;
+    width: 1.12rem;
+    height: 1.25rem;
+}
+.page2 > img:nth-child(16) {
+    top: 75.5%;
+    left: 4rem;
+    width: 1.26rem;
+    height: 1.16rem;
+}
+.page2 > img:nth-child(17) {
+    top: 75.5%;
+    left: 1rem;
+    width: 1.26rem;
+    height: 1.16rem;
 }
 
 #page2 > img:nth-child(1) {
@@ -283,6 +301,18 @@ html, body, .swiper-container, .swiper-slide {
 
 #page2 > img:nth-child(14) {
     -webkit-animation: bounceInRight 1s 1.5s both;
+    animation: bounceInRight 1s 1.5s both
+}
+#page2 > img:nth-child(15) {
+    -webkit-animation: bounceInRight 1s 1.9s both;
+    animation: bounceInRight 1s 1.5s both
+}
+#page2 > img:nth-child(16) {
+    -webkit-animation: bounceInRight 1s 2.1s both;
+    animation: bounceInRight 1s 1.5s both
+}
+#page2 > img:nth-child(17) {
+    -webkit-animation: bounceInRight 1s 1.6s both;
     animation: bounceInRight 1s 1.5s both
 }
 
